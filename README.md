@@ -92,11 +92,6 @@ print(f"δp = {result['drift']:.3f}")
 
 *Overall hallucination reduction: 38%* (at a 15% rejection rate)
 
-Figures
-Figure	Description
-Figure 1	Positional sensitivity of δp (U-shaped curve, mirroring the "lost-in-the-middle" phenomenon)
-Figure 2	Correlation between δp and hallucination severity (r = -0.96, p < 0.001)
-
 ## 📁 Repository Structure
 
 
