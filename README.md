@@ -115,6 +115,6 @@ This project is licensed under the MIT License.
 
 ## 📧 Contact
 
-*Author:* Lanre Oyeleke
-*Email:* LanreOyeleke@uga.edu
-*GitHub:*https://github.com/LanreOyeleke
+Author: Lanre Oyeleke
+Email: LanreOyeleke@uga.edu
+GitHub: https://github.com/LanreOyeleke
