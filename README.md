@@ -6,7 +6,7 @@
 
 This repository contains the official implementation for the research project:
 
-> *"Pragmatic Drift and Context Boundaries: Evaluating 'Translation in the Wild' Within High-Dimensional RAG Architectures"*
+> *"Semantic Drift and Context Boundaries: Evaluating 'Translation in the Wild' Within High-Dimensional RAG Architectures"*
 
 ## 📄 Overview
 
