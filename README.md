@@ -25,7 +25,7 @@ I also introduce the *Perturbation-to-Attention (P2A) stress-test*, a deployable
 
 1. *Clone the repository:*
    
-   git clone https://github.com/LanreOyeleke/pragmatic.drift.git
+   git clone https://github.com/LanreOyeleke/semantic-drift.git
    cd pragmatic-drift
    
 
