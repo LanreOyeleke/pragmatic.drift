@@ -24,19 +24,17 @@ I also introduce the *Perturbation-to-Attention (P2A) stress-test*, a deployable
 ### Installation
 
 1. *Clone the repository:*
-   bash
+   
    git clone https://github.com/LanreOyeleke/pragmatic.drift.git
    cd pragmatic-drift
    
 
-2. *Create a virtual environment (recommended):*
-   bash
+3. *Create a virtual environment (recommended):*
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    
 
-3. *Install dependencies:*
-   bash
+4. *Install dependencies:*
    pip install -r requirements.txt
    
 
@@ -44,7 +42,7 @@ I also introduce the *Perturbation-to-Attention (P2A) stress-test*, a deployable
 
 ### Using the P2A Guardrail
 
-python
+
 from src.evaluation.metrics import p2a_stress_test
 
 result = p2a_stress_test(
@@ -67,7 +65,6 @@ else:
 
 ### Calculating δp
 
-python
 from src.evaluation.metrics import calculate_delta_p
 
 result = calculate_delta_p(
