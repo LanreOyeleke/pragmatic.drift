@@ -26,15 +26,16 @@ I also introduce the *Perturbation-to-Attention (P2A) stress-test*, a deployable
 1. *Clone the repository:*
    
    git clone https://github.com/LanreOyeleke/semantic-drift.git
-   cd pragmatic-drift
+   
    
 
 3. *Create a virtual environment (recommended):*
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+ python -m venv venv
+ source venv/bin/activate  # On Windows: venv\Scripts\activate
    
 
-4. *Install dependencies:*
+5. *Install dependencies:*
    pip install -r requirements.txt
    
 
