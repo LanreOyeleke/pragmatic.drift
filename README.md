@@ -30,9 +30,8 @@ I also introduce the *Perturbation-to-Attention (P2A) stress-test*, a deployable
    
 
 3. *Create a virtual environment (recommended):*
-
- python -m venv venv
- source venv/bin/activate  # On Windows: venv\Scripts\activate
+    python -m venv venv
+    source venv/bin/activate  # On Windows: venv\Scripts\activate
    
 
 5. *Install dependencies:*
